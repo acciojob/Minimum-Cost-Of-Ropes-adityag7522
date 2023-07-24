@@ -1,9 +1,3 @@
-
- 
- 
-// js part
- 
- 
 function compare(a, b) {
   if (a < b) {
       return -1;
